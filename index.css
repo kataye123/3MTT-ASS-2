@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding: 0; 
+}
+
+.details{
+    color: white;
+    font-size: 20px;
+    font-family: 'calibri'; 
+
+}
+.welcome{
+    color:#2595c2;
+    font-size: 25px;
+    font-family: 'bookman shelf symbol'; 
+    font-weight: 500;
+}
+.kataye{
+    color: blue;
+    font-size: 50px;
+}
+.register{
+    color: #fff;
+    border-style: solid;
+    width: 120px;
+    height: 28px;
+    border-radius: 8px;
+    margin-left: 550px;
+    border-color: rgb(248, 232, 10);
+    background: transparent;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.login{
+    color: #fff;
+    border-style: solid;
+    width: 120px;
+    height: 28px;
+    border-radius: 8px;
+    margin-left: 20px; 
+    border-color: rgb(248, 232, 10);  
+    background: transparent;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: #ff7600;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+a:hover{
+    color: red;
+}
+a:active{
+    text-decoration: underline;
+}
+    
+ .register:hover{
+ color: white;
+ background-color: green;
+}
+
+.login:hover{
+    color: white;
+ background-color: green;
+}
